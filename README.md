@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/license-MIT%20License-blue.svg?style=flat-square) ![Top Language](https://img.shields.io/github/languages/top/alex1dev0/readme-creator?style=flat-square) ![Repo Size](https://img.shields.io/github/repo-size/alex1dev0/readme-creator?style=flat-square) ![Issues](https://img.shields.io/github/issues/alex1dev0/readme-creator?style=flat-square) ![Stars](https://img.shields.io/github/stars/alex1dev0/readme-creator?style=flat-square) 
 
 <p align="center">
-  *Instantly generate beautiful README files for your GitHub projects.*
+  <em>Instantly generate beautiful README files for your GitHub projects.</em>
 </p>
 <p align="center">
   <a href="https://github.com/alex1dev0/readme-creator/graphs/contributors">
@@ -43,7 +43,7 @@
 
 ## Languages
 
-![PHP](https://img.shields.io/badge/PHP%2075.0%25-777BB4?style=for-the-badge&logo=php&logoColor=white) ![CSS](https://img.shields.io/badge/CSS%2020.0%25-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML%205.0%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ## Features
 
