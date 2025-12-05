@@ -10,9 +10,15 @@
   *Instantly generate beautiful README files for your GitHub projects.*
 </p>
 <p align="center">
-  [![contributors](https://img.shields.io/github/contributors/alex1dev0/readme-creator?style=flat-square)](https://github.com/alex1dev0/readme-creator/graphs/contributors)
-  [![forks](https://img.shields.io/github/forks/alex1dev0/readme-creator?style=flat-square)](https://github.com/alex1dev0/readme-creator/network/members)
-  [![stars](https://img.shields.io/github/stars/alex1dev0/readme-creator?style=flat-square)](https://github.com/alex1dev0/readme-creator/stargazers)
+  <a href="https://github.com/alex1dev0/readme-creator/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/alex1dev0/readme-creator?style=flat-square" alt="contributors" />
+  </a>
+  <a href="https://github.com/alex1dev0/readme-creator/network/members">
+    <img src="https://img.shields.io/github/forks/alex1dev0/readme-creator?style=flat-square" alt="forks" />
+  </a>
+  <a href="https://github.com/alex1dev0/readme-creator/stargazers">
+    <img src="https://img.shields.io/github/stars/alex1dev0/readme-creator?style=flat-square" alt="stars" />
+  </a>
 </p>
 </div>
 
